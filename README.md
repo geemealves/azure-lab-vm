@@ -51,6 +51,3 @@ Se desejar incluir imagens:
 - Crie uma pasta chamada `/images`
 - Adicione prints da criação da VM, painel do Azure etc.
 - Insira assim no README:
-
-```markdown
-![Portal do Azure - Criação da VM](./images/criacao-vm.png)
